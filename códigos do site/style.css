@@ -1,0 +1,36 @@
+/* Isso é um comentário em CSS */
+
+/* Define a cor de fundo da página */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Estiliza o título principal */
+h1 {
+  color: #333333;
+  text-align: center;
+}
+
+/* Estiliza parágrafos */
+p {
+  color: #555555;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Estiliza botões */
+button {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Efeito ao passar o mouse no botão */
+button:hover {
+  background-color: #0056b3;
+}
